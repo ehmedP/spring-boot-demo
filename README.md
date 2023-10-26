@@ -2,6 +2,7 @@
 
 This repository contains all the files related to my learning journey with Spring Boot. It includes application examples, configuration files, and other resources.
 
+&nbsp;
 ## About the Project
 
 This project consists of a demo application developed with Spring Boot. It has the following features:
@@ -13,6 +14,7 @@ This project consists of a demo application developed with Spring Boot. It has t
 - Creating RESTful APIs with Spring Boot Web
 - Security operations with Spring Security
 
+&nbsp;
 ## Requirements
 
 To run this project, you need the following requirements:
