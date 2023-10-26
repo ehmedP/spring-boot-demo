@@ -47,11 +47,11 @@ http://localhost:8080
 ## Katkıda Bulunma
 Eğer bu projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları takip edin:
 
-1. Bu repository'yi fork edin.
-2. Yeni bir branch oluşturun: git checkout -b yeni-ozellik
-3. Değişikliklerinizi yapın ve commit'leyin: git commit -m 'Yeni özellik eklendi'
-4. Branch'inizi push'layın: git push origin yeni-ozellik
-5. Bir Pull Request (PR) oluşturun.
+- Bu repository'yi fork edin.
+- Yeni bir branch oluşturun: git checkout -b yeni-ozellik
+- Değişikliklerinizi yapın ve commit'leyin: git commit -m 'Yeni özellik eklendi'
+- Branch'inizi push'layın: git push origin yeni-ozellik
+- Bir Pull Request (PR) oluşturun.
 
 ## Lisans
 Bu proje MIT Lisansı ile lisanslanmıştır.
