@@ -50,9 +50,9 @@ http://localhost:8080
 If you would like to contribute to this project, please follow these steps:
 
 - Fork this repository.
-- Create a new branch: git checkout -b new-feature
-- Make your changes and commit them: git commit -m 'Added new feature'
-- Push your branch: git push origin new-feature
+- Create a new branch: ``` git checkout -b new-feature ```
+- Make your changes and commit them: ``` git commit -m 'Added new feature' ```
+- Push your branch: ``` git push origin new-feature ```
 - Create a Pull Request (PR).
 
 ## License
