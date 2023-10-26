@@ -21,6 +21,11 @@ To run this project, you need the following requirements:
 
 - Java 17
 - Maven
+- Spring Boot
+- Spring MVC
+- Spring Data
+- Spring Security
+- Spring Rest
 
 ## Installation
 
