@@ -1,57 +1,57 @@
-# Spring Boot Örnekleri
+# Spring Boot Examples
 
-Bu repository, Spring Boot ile ilgili öğrendiğim tüm dosyaları içermektedir. Uygulama örnekleri, yapılandırma dosyaları ve diğer kaynaklar burada bulunmaktadır.
+This repository contains all the files related to my learning journey with Spring Boot. It includes application examples, configuration files, and other resources.
 
-## Proje Hakkında
+## About the Project
 
-Bu proje, Spring Boot ile geliştirilen bir demo uygulamayı içermektedir. Aşağıdaki özelliklere sahiptir:
+This project consists of a demo application developed with Spring Boot. It has the following features:
 
-- Spring Boot Actuator ile uygulama durumunu izleme ve yönetme
-- Spring Data JPA ile veritabanı işlemleri
-- Thymeleaf ile web arayüzü oluşturma
-- Doğrulama işlemleri için Spring Boot Validation kullanma
-- Spring Boot Web ile RESTful API'lar oluşturma
-- Spring Security ile güvenlik işlemleri
+- Monitoring and managing application status with Spring Boot Actuator
+- Database operations with Spring Data JPA
+- Creating web interfaces with Thymeleaf
+- Using Spring Boot Validation for validation processes
+- Creating RESTful APIs with Spring Boot Web
+- Security operations with Spring Security
 
-## Gereksinimler
+## Requirements
 
-Bu projeyi çalıştırmak için aşağıdaki gereksinimlere ihtiyaç duyulmaktadır:
+To run this project, you need the following requirements:
 
 - Java 17
 - Maven
 
-## Kurulum
+## Installation
 
-1. Bu repository'yi klonlayın:
-
-```shell
-git clone https://github.com/kullaniciadi/repo-adi.git
-```
-
-2. Proje dizinine gidin:
+1. Clone this repository:
 
 ```shell
-cd repo-adi
+git clone https://github.com/ehmedP/spring-boot-demo.git
 ```
-3. Uygulamayı derleyin ve çalıştırın:
+
+2. Navigate to the project directory:
+
+```shell
+cd spring-boot-demo
+```
+3. Compile and run the application:
 
 ```shell
 mvn spring-boot:run
 ```
 
-4. Tarayıcınızda aşağıdaki URL'yi açın:
+4. Open the following URL in your browser:
 ```
 http://localhost:8080
 ```
 
-## Katkıda Bulunma
-Eğer bu projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları takip edin:
+## Contributing
+If you would like to contribute to this project, please follow these steps:
 
-- Bu repository'yi fork edin.
-- Yeni bir branch oluşturun: git checkout -b yeni-ozellik
-- Değişikliklerinizi yapın ve commit'leyin: git commit -m 'Yeni özellik eklendi'
-- Branch'inizi push'layın: git push origin yeni-ozellik
-- Bir Pull Request (PR) oluşturun.
+- Fork this repository.
+- Create a new branch: git checkout -b new-feature
+- Make your changes and commit them: git commit -m 'Added new feature'
+- Push your branch: git push origin new-feature
+- Create a Pull Request (PR).
 
-## Lisans
-Bu proje MIT Lisansı ile lisanslanmıştır.
+## License
+This project is licensed under the MIT License.
