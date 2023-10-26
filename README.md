@@ -44,12 +44,13 @@ mvn spring-boot:run
 http://localhost:8080
 ```
 
-Katkıda Bulunma
+## Katkıda Bulunma
 Eğer bu projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları takip edin:
 Bu repository'yi fork edin.
 Yeni bir branch oluşturun: git checkout -b yeni-ozellik
 Değişikliklerinizi yapın ve commit'leyin: git commit -m 'Yeni özellik eklendi'
 Branch'inizi push'layın: git push origin yeni-ozellik
 Bir Pull Request (PR) oluşturun.
-Lisans
+
+## Lisans
 Bu proje MIT Lisansı ile lisanslanmıştır.
