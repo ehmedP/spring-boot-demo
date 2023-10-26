@@ -25,19 +25,25 @@ Bu projeyi çalıştırmak için aşağıdaki gereksinimlere ihtiyaç duyulmakta
 1. Bu repository'yi klonlayın:
 
 ```shell
-   git clone https://github.com/kullaniciadi/repo-adi.git
-Proje dizinine gidin:
-shell
+git clone https://github.com/kullaniciadi/repo-adi.git
+```
 
+2. Proje dizinine gidin:
 
-   cd repo-adi
-Uygulamayı derleyin ve çalıştırın:
-shell
+```shell
+cd repo-adi
+```
+3. Uygulamayı derleyin ve çalıştırın:
 
-   mvn spring-boot:run
-Tarayıcınızda aşağıdaki URL'yi açın:
+```shell
+mvn spring-boot:run
+```
 
-   http://localhost:8080
+4. Tarayıcınızda aşağıdaki URL'yi açın:
+```
+http://localhost:8080
+```
+
 Katkıda Bulunma
 Eğer bu projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları takip edin:
 Bu repository'yi fork edin.
